@@ -1,8 +1,24 @@
-# 99 Mistakes in GBO — Six Language Editions
+# 99 Mistakes in GBO
 
-**Kaan Muraz · NobleJackal · Corrected distribution 1.0.1 · 10 September 2026**
+<p align="center">
+  <img src="./cover-en.webp" alt="99 Mistakes in GBO — English edition cover" width="360">
+</p>
 
-Volume II of *The NOMOS GBO Standard* examines 99 failures in AI-agent behaviour across eleven thematic chapters. Each case identifies the scenario, apparently reasonable behaviour, actual failure, potential harm, detection signal, appropriate behaviour, machine rule and audit question. The book also contains a publication note, prologue, epilogue, and sources and methodology.
+<p align="center"><strong>Why AI agents choose badly, exceed their authority and fail to stop</strong></p>
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22689700.svg)](https://doi.org/10.5281/zenodo.22689700) [![ORCID](https://img.shields.io/badge/ORCID-0009--0000--2277--9009-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0000-2277-9009) ![Languages](https://img.shields.io/badge/Languages-6-334155) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-C9A227.svg)](https://creativecommons.org/licenses/by/4.0/)
+
+GBO means Generative Behavior Optimization: designing and governing what AI agents are allowed to do. This six-language companion to NOMOS GBO examines 99 failure patterns, each with a scenario, potential harm, detection signal, appropriate behaviour, machine rule and audit question.
+
+**Start reading:** [Open the English PDF](https://github.com/nobelJackal/GBO-99-Errors/releases/download/v1.0.1/GBO-99-ERRORS-EN-v1.0.1.pdf) · [Choose one of six languages](#read-or-download) · [Cite the DOI](https://doi.org/10.5281/zenodo.22689700)
+
+**Kaan Muraz · NobleJackal · Version 1.0.1**
+
+> **Publication status:** Author-proposed failure catalogue for AI-agent behaviour and audit. It is not an adopted industry standard, accreditation, certification or safety guarantee.
+
+## Read or download
+
+Six complete PDF editions are available below. Each DOI identifies the corresponding language edition.
 
 | Edition | PDF pages | PDF | DOI |
 |---|---:|---|---|
