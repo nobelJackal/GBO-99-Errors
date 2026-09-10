@@ -1,0 +1,28 @@
+{
+  "id": "10.5281/zenodo.22689700",
+  "type": "book",
+  "title": "99 Mistakes in GBO: Why AI Agents Make the Wrong Choice, Exceed Their Authority and Fail to Stop",
+  "author": [
+    {
+      "family": "Muraz",
+      "given": "Kaan",
+      "ORCID": "https://orcid.org/0009-0000-2277-9009"
+    }
+  ],
+  "publisher": "NobleJackal",
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        9,
+        10
+      ]
+    ]
+  },
+  "version": "1.0.1",
+  "language": "en",
+  "DOI": "10.5281/zenodo.22689700",
+  "URL": "https://doi.org/10.5281/zenodo.22689700",
+  "license": "CC-BY-4.0",
+  "number-of-pages": 514
+}

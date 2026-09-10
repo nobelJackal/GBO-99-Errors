@@ -1,0 +1,28 @@
+{
+  "id": "10.5281/zenodo.22689550",
+  "type": "book",
+  "title": "GBO’da Yapılan 99 Hata: Yapay Zekâ Ajanları Neden Yanlış Seçer, Yetkiyi Aşar ve Duramaz?",
+  "author": [
+    {
+      "family": "Muraz",
+      "given": "Kaan",
+      "ORCID": "https://orcid.org/0009-0000-2277-9009"
+    }
+  ],
+  "publisher": "NobleJackal",
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        9,
+        10
+      ]
+    ]
+  },
+  "version": "1.0.1",
+  "language": "tr",
+  "DOI": "10.5281/zenodo.22689550",
+  "URL": "https://doi.org/10.5281/zenodo.22689550",
+  "license": "CC-BY-4.0",
+  "number-of-pages": 494
+}

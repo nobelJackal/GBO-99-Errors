@@ -1,0 +1,45 @@
+cff-version: 1.2.0
+message: Please cite the language edition you consulted using its Zenodo DOI.
+type: dataset
+title: 99 Mistakes in GBO — Six Corrected Language Editions
+version: 1.0.1
+date-released: '2026-09-10'
+authors:
+- family-names: Muraz
+  given-names: Kaan
+  orcid: https://orcid.org/0009-0000-2277-9009
+repository-code: https://github.com/nobelJackal/GBO-99-Errors
+url: https://huggingface.co/datasets/NobleJackal/GBO-99-Errors
+license: CC-BY-4.0
+identifiers:
+- type: doi
+  value: 10.5281/zenodo.22689550
+  description: Türkçe edition, corrected distribution 1.0.1
+- type: doi
+  value: 10.5281/zenodo.22689700
+  description: English edition, corrected distribution 1.0.1
+- type: doi
+  value: 10.5281/zenodo.22689750
+  description: Deutsch edition, corrected distribution 1.0.1
+- type: doi
+  value: 10.5281/zenodo.22689871
+  description: العربية edition, corrected distribution 1.0.1
+- type: doi
+  value: 10.5281/zenodo.22689919
+  description: Русский edition, corrected distribution 1.0.1
+- type: doi
+  value: 10.5281/zenodo.22689953
+  description: Español edition, corrected distribution 1.0.1
+preferred-citation:
+  type: book
+  title: 'GBO’da Yapılan 99 Hata: Yapay Zekâ Ajanları Neden Yanlış Seçer, Yetkiyi
+    Aşar ve Duramaz?'
+  authors:
+  - family-names: Muraz
+    given-names: Kaan
+    orcid: https://orcid.org/0009-0000-2277-9009
+  year: 2026
+  version: 1.0.1
+  publisher:
+    name: NobleJackal
+  doi: 10.5281/zenodo.22689550

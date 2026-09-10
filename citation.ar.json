@@ -1,0 +1,28 @@
+{
+  "id": "10.5281/zenodo.22689871",
+  "type": "book",
+  "title": "٩٩ خطأً في GBO: لماذا يخطئ وكلاء الذكاء الاصطناعي في الاختيار، ويتجاوزون صلاحياتهم، ولا يتوقفون؟",
+  "author": [
+    {
+      "family": "Muraz",
+      "given": "Kaan",
+      "ORCID": "https://orcid.org/0009-0000-2277-9009"
+    }
+  ],
+  "publisher": "NobleJackal",
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        9,
+        10
+      ]
+    ]
+  },
+  "version": "1.0.1",
+  "language": "ar",
+  "DOI": "10.5281/zenodo.22689871",
+  "URL": "https://doi.org/10.5281/zenodo.22689871",
+  "license": "CC-BY-4.0",
+  "number-of-pages": 512
+}

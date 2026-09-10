@@ -1,0 +1,212 @@
+{
+  "work_id": "gbo-99-errors",
+  "version": "1.0.1",
+  "license": "CC-BY-4.0",
+  "editions": [
+    {
+      "language": "tr",
+      "language_name": "Türkçe",
+      "title": "GBO’da Yapılan 99 Hata: Yapay Zekâ Ajanları Neden Yanlış Seçer, Yetkiyi Aşar ve Duramaz?",
+      "pages": 494,
+      "doi": "10.5281/zenodo.22689550",
+      "archive_url": "https://zenodo.org/records/22689550",
+      "canonical_url": "https://noblejackal.com/tr/gbo-99-errors/",
+      "pdf": "GBO-99-ERRORS-TR-v1.0.1.pdf",
+      "pdf_sha256": "42a00cc4f3181b9072b350d5067ccabc10afb25106b8d1e7c790ac5034b59dd0",
+      "source_pdf_url": "https://noblejackal.com/gbo-99-errors/tr/v1.0.0/GBO-99-Errors-TR-v1.0.0.pdf",
+      "source_document_sha256": "f4925f6ee61a45b584abf547420fff2013f55a2c1fc95d7420e95ca27e087523",
+      "jsonl_records": 115,
+      "previous_zenodo_record": {
+        "record_id": "22686056",
+        "doi": "10.5281/zenodo.22686056",
+        "url": "https://zenodo.org/records/22686056",
+        "status": "published",
+        "updated_at_utc": "2026-09-10T09:03:35.386444+00:00"
+      }
+    },
+    {
+      "language": "en",
+      "language_name": "English",
+      "title": "99 Mistakes in GBO: Why AI Agents Make the Wrong Choice, Exceed Their Authority and Fail to Stop",
+      "pages": 514,
+      "doi": "10.5281/zenodo.22689700",
+      "archive_url": "https://zenodo.org/records/22689700",
+      "canonical_url": "https://noblejackal.com/gbo-99-errors/",
+      "pdf": "GBO-99-ERRORS-EN-v1.0.1.pdf",
+      "pdf_sha256": "e83ec921b3140142ad992b6e297e2c394cb75ebc962a6be1008e124c7c5100cf",
+      "source_pdf_url": "https://noblejackal.com/gbo-99-errors/en/v1.0.0/GBO-99-Errors-EN-v1.0.0.pdf",
+      "source_document_sha256": "604080c538ceec5b7b25724857bb662c9235338fdaa23bfdc59b671b74be8e7f",
+      "jsonl_records": 115,
+      "previous_zenodo_record": {
+        "record_id": "22686210",
+        "doi": "10.5281/zenodo.22686210",
+        "url": "https://zenodo.org/records/22686210",
+        "status": "published",
+        "updated_at_utc": "2026-09-10T09:06:18.322623+00:00"
+      }
+    },
+    {
+      "language": "de",
+      "language_name": "Deutsch",
+      "title": "99 Fehler bei GBO: Warum KI-Agenten falsch entscheiden, ihre Befugnisse überschreiten und nicht anhalten",
+      "pages": 545,
+      "doi": "10.5281/zenodo.22689750",
+      "archive_url": "https://zenodo.org/records/22689750",
+      "canonical_url": "https://noblejackal.com/de/gbo-99-errors/",
+      "pdf": "GBO-99-ERRORS-DE-v1.0.1.pdf",
+      "pdf_sha256": "71349e77d08cf7900395908e5f72196afe53fea3efe4e06df9793100c7482811",
+      "source_pdf_url": "https://noblejackal.com/gbo-99-errors/de/v1.0.0/GBO-99-Errors-DE-v1.0.0.pdf",
+      "source_document_sha256": "e4b26433784b3b1ebfb329acf684f9db4a1ed17db852ca2d001b94f71317805d",
+      "jsonl_records": 115,
+      "previous_zenodo_record": {
+        "record_id": "22686288",
+        "doi": "10.5281/zenodo.22686288",
+        "url": "https://zenodo.org/records/22686288",
+        "status": "published",
+        "updated_at_utc": "2026-09-10T09:08:01.038821+00:00"
+      }
+    },
+    {
+      "language": "ar",
+      "language_name": "العربية",
+      "title": "٩٩ خطأً في GBO: لماذا يخطئ وكلاء الذكاء الاصطناعي في الاختيار، ويتجاوزون صلاحياتهم، ولا يتوقفون؟",
+      "pages": 512,
+      "doi": "10.5281/zenodo.22689871",
+      "archive_url": "https://zenodo.org/records/22689871",
+      "canonical_url": "https://noblejackal.com/ar/gbo-99-errors/",
+      "pdf": "GBO-99-ERRORS-AR-v1.0.1.pdf",
+      "pdf_sha256": "7742d9a105ef08853f75c30635737f6ba09249789f1b6976b3d53d492396450b",
+      "source_pdf_url": "https://noblejackal.com/gbo-99-errors/ar/v1.0.0/GBO-99-Errors-AR-v1.0.0.pdf",
+      "source_document_sha256": "abaff513b9033b0f11c09dd37bacd2bb77fd64ae86dc23bd65d6c0bc3de915f8",
+      "jsonl_records": 115,
+      "previous_zenodo_record": {
+        "record_id": "22686349",
+        "doi": "10.5281/zenodo.22686349",
+        "url": "https://zenodo.org/records/22686349",
+        "status": "published",
+        "updated_at_utc": "2026-09-10T09:11:20.173325+00:00"
+      }
+    },
+    {
+      "language": "ru",
+      "language_name": "Русский",
+      "title": "99 ошибок в GBO: Почему ИИ-агенты выбирают неверно, превышают полномочия и не могут остановиться",
+      "pages": 555,
+      "doi": "10.5281/zenodo.22689919",
+      "archive_url": "https://zenodo.org/records/22689919",
+      "canonical_url": "https://noblejackal.com/ru/gbo-99-errors/",
+      "pdf": "GBO-99-ERRORS-RU-v1.0.1.pdf",
+      "pdf_sha256": "ef3d63493f394a5e3e222ee865722fd04b17f47b00aac6853cf14f5ecea49cac",
+      "source_pdf_url": "https://noblejackal.com/gbo-99-errors/ru/v1.0.0/GBO-99-Errors-RU-v1.0.0.pdf",
+      "source_document_sha256": "23c0d34ea15a551098737daa6cda32d005cb7e6c93fe305533c2017279a55b42",
+      "jsonl_records": 115,
+      "previous_zenodo_record": null
+    },
+    {
+      "language": "es",
+      "language_name": "Español",
+      "title": "99 errores en GBO: Por qué los agentes de IA eligen mal, exceden su autorización y no se detienen",
+      "pages": 531,
+      "doi": "10.5281/zenodo.22689953",
+      "archive_url": "https://zenodo.org/records/22689953",
+      "canonical_url": "https://noblejackal.com/es/gbo-99-errors/",
+      "pdf": "GBO-99-ERRORS-ES-v1.0.1.pdf",
+      "pdf_sha256": "ba28de38b6febaab846e1ab0ea1f9655a84bb76a261a397f524c7341de41c0e6",
+      "source_pdf_url": "https://noblejackal.com/gbo-99-errors/es/v1.0.0/GBO-99-Errors-ES-v1.0.0.pdf",
+      "source_document_sha256": "2ba0059da314c3c5d8c0f25187dc2ef6f4925fcceeeca4c9bd6f624e0c9dc34e",
+      "jsonl_records": 115,
+      "previous_zenodo_record": null
+    }
+  ],
+  "repository_files": [
+    {
+      "path": "CHANGELOG.md",
+      "bytes": 688,
+      "sha256": "ecc4c4b2c4da72c3a7c9c2490ddf2636a97720c10853ba13c4501e9484d207d4"
+    },
+    {
+      "path": "citation.ar.json",
+      "bytes": 716,
+      "sha256": "4669eaa4634aafa469619532f19659e45332daab686ba4345f6c8bd4701d572e"
+    },
+    {
+      "path": "CITATION.cff",
+      "bytes": 1516,
+      "sha256": "d788e543562e967b44878cef35321449df18c932bc878f9225b3c8a388d49d1e"
+    },
+    {
+      "path": "citation.de.json",
+      "bytes": 647,
+      "sha256": "c39fbff65b2c43b7bd8be86748af36460655163f48efa880df7258b3c17904ce"
+    },
+    {
+      "path": "citation.en.json",
+      "bytes": 638,
+      "sha256": "8a3b0fbd9f15ac0a41e77a23de78f280d613c1cb47b3416058a605f71a2799c8"
+    },
+    {
+      "path": "citation.es.json",
+      "bytes": 641,
+      "sha256": "dcf21f08f98012501c374801c0fe1f387e2dbaab4876847bb144086060b7cae6"
+    },
+    {
+      "path": "citation.ru.json",
+      "bytes": 713,
+      "sha256": "235a60a342ffa018a1375bdb0c826be2cb757f68a94644c958a98421f4296397"
+    },
+    {
+      "path": "citation.tr.json",
+      "bytes": 639,
+      "sha256": "f7cb3335b28551654f755e6772cfce2c85f428aab2c24f2788574075aa0fe5ba"
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 17023,
+      "sha256": "d557539df68e771cc1eedcc91d13f70fca930e508d11eedcafa4b15db49e3744"
+    },
+    {
+      "path": "README.md",
+      "bytes": 5772,
+      "sha256": "67654a5c781bf848504553b426de9904a135f0a1b66da3e90036e57c7c2e0fc0"
+    },
+    {
+      "path": "RIGHTS.md",
+      "bytes": 1749,
+      "sha256": "ffc59c6120eb06381edf52e0a9f78f0d2f1d42c8c73f94ed70e3b56667b616ab"
+    }
+  ],
+  "release_assets": [
+    {
+      "path": "GBO-99-ERRORS-TR-v1.0.1.pdf",
+      "sha256": "42a00cc4f3181b9072b350d5067ccabc10afb25106b8d1e7c790ac5034b59dd0",
+      "url": "https://github.com/nobelJackal/GBO-99-Errors/releases/download/v1.0.1/GBO-99-ERRORS-TR-v1.0.1.pdf"
+    },
+    {
+      "path": "GBO-99-ERRORS-EN-v1.0.1.pdf",
+      "sha256": "e83ec921b3140142ad992b6e297e2c394cb75ebc962a6be1008e124c7c5100cf",
+      "url": "https://github.com/nobelJackal/GBO-99-Errors/releases/download/v1.0.1/GBO-99-ERRORS-EN-v1.0.1.pdf"
+    },
+    {
+      "path": "GBO-99-ERRORS-DE-v1.0.1.pdf",
+      "sha256": "71349e77d08cf7900395908e5f72196afe53fea3efe4e06df9793100c7482811",
+      "url": "https://github.com/nobelJackal/GBO-99-Errors/releases/download/v1.0.1/GBO-99-ERRORS-DE-v1.0.1.pdf"
+    },
+    {
+      "path": "GBO-99-ERRORS-AR-v1.0.1.pdf",
+      "sha256": "7742d9a105ef08853f75c30635737f6ba09249789f1b6976b3d53d492396450b",
+      "url": "https://github.com/nobelJackal/GBO-99-Errors/releases/download/v1.0.1/GBO-99-ERRORS-AR-v1.0.1.pdf"
+    },
+    {
+      "path": "GBO-99-ERRORS-RU-v1.0.1.pdf",
+      "sha256": "ef3d63493f394a5e3e222ee865722fd04b17f47b00aac6853cf14f5ecea49cac",
+      "url": "https://github.com/nobelJackal/GBO-99-Errors/releases/download/v1.0.1/GBO-99-ERRORS-RU-v1.0.1.pdf"
+    },
+    {
+      "path": "GBO-99-ERRORS-ES-v1.0.1.pdf",
+      "sha256": "ba28de38b6febaab846e1ab0ea1f9655a84bb76a261a397f524c7341de41c0e6",
+      "url": "https://github.com/nobelJackal/GBO-99-Errors/releases/download/v1.0.1/GBO-99-ERRORS-ES-v1.0.1.pdf"
+    }
+  ],
+  "full_corpus": "https://huggingface.co/datasets/NobleJackal/GBO-99-Errors",
+  "integrity_note": "This manifest excludes itself and checksums.sha256. PDF files are release assets, not repository-root files."
+}
